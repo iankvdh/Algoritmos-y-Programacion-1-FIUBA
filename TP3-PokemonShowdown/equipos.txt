@@ -1,0 +1,2 @@
+ian;golem:rest,fissure,harden,roar*caterpie:tackle,electroweb,stringshot,*pidgeot:fly,gust,hurricane,agility*rattata:watergun,cut,swift,irontail*nidoqueen:bodyslam,rest,fireblast,roar*paras:flash,rest,furycutter,takedown*
+valen;zubat:gust,gust,fly,rest*oddish:energyball,flash,cut,acid*machop:rockslide,rockslide,leer,fireblast*rapidash:agility,charm,growl,tackle*koffing:flash,headbutt,rest,shadowball*pinsir:cut,rest,takedown,bodyslam*
